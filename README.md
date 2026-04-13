@@ -30,3 +30,4 @@ Preview the production build locally:
 npm run start
 ```
 # inventory-academy
+# inventory-academy
